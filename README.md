@@ -1,4 +1,4 @@
 # sample.github.io
-yamo masa
-mari 
+<diV>yamo masa</div>
+<h1>mari</h1> 
 https://yamomasa.github.io/sample.github.io/test.html
