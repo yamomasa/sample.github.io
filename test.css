@@ -1,0 +1,46 @@
+@media(max-width:1000px){
+.flex-list{
+  display:flex;
+  flex-wrap: wrap;
+}
+
+.flex-list li{
+  flex: auto;
+  width:50%;
+}
+}
+
+@media(max-width:670px){
+  .flex-list{
+    flex-direction: column;
+  }
+  
+  .flex-list li{
+    margin:0 auto;
+  }
+  }
+
+li {
+  list-style: none;
+}
+
+.li1{
+  background-color: fuchsia;
+  height: 45px;
+}
+
+.li2{
+  background-color: gold;
+  height: 45px;
+}
+
+.li3{
+  background-color: greenyellow;
+  height: 45px;
+}
+
+.li4{
+  background-color: royalblue;
+  color: aliceblue;
+  height: 45px;
+}
