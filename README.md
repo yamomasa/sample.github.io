@@ -4,5 +4,5 @@
 <div>mari</div> 
  <a>マンガ読んで、寝てた</a>
  <div>
-<href="https://yamomasa.github.io/sample.github.io/test.html">
+ <a href="https://yamomasa.github.io/sample.github.io/test.html">今日の行動</a>
 </div>
