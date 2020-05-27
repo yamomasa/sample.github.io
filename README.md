@@ -3,7 +3,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Progate</title>
+  <title>yamomasa</title>
   <link rel="stylesheet" href="test.css">
 </head>
 <body>
