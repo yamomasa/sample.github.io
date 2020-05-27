@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>M's漢方相談所</title>
-    <link rel="stylesheet" href=".css">
+    <link rel="stylesheet" href="test.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   </head>
   <body>
