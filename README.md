@@ -1,4 +1,6 @@
 # sample.github.io
 <diV>yamo masa</div>
-<h1>mari</h1> 
+<a>今日は何したの？</a>
+<p>mari</p> 
+ <a>マンガ読んで、寝てた</a>
 https://yamomasa.github.io/sample.github.io/test.html
