@@ -39,29 +39,29 @@
         <div class="lessons">
           <div class="lesson">
             <div class="lesson-icon">
-              <img src="https://prog-8.com/images/html/advanced/html.png">
-              <p>HTML & CSS</p>
+              <img src="https://yamomasa.github.io/sample.github.io/IMG_tree1.PNG">
+              <p>漢方について</p>
             </div>
             <p class="txt-contents">Webページの作成に使用される言語です。HTMLとCSSを組み合わせることで、静的なページを作り上げることができます。</p>
           </div>
           <div class="lesson">
             <div class="lesson-icon">
-              <img src="https://prog-8.com/images/html/advanced/jQuery.png">
-              <p>jQuery</p>
+              <img src="https://yamomasa.github.io/sample.github.io/IMG_tree2.PNG">
+              <p>体調について</p>
             </div>
             <p class="txt-contents">素敵な動きを手軽に実装できるJavaScriptライブラリです。 アニメーション効果をつけたり、Ajax（エイジャックス）を使って外部ファイルを読み込んだりと色々なことができます。</p>
           </div>
           <div class="lesson">
             <div class="lesson-icon">
-              <img src="https://prog-8.com/images/html/advanced/ruby.png">
-              <p>Ruby</p>
+              <img src="https://yamomasa.github.io/sample.github.io/IMG_kanp.PNG">
+              <p>料金について</p>
             </div>
             <p class="txt-contents">オープンソースの動的なプログラミング言語で、 シンプルさと高い生産性を備えています。大きなWebアプリケーションから小さな日用ツールまで、さまざまなソフトウェアを作ることができます。</p>
           </div>
           <div class="lesson">
             <div class="lesson-icon">
-              <img src="https://prog-8.com/images/html/advanced/php.png">
-              <p>PHP</p>
+              <img src="https://yamomasa.github.io/sample.github.io/IMG_kanp1.PNG">
+              <p>りょうくんについて</p>
             </div>
             <p class="txt-contents">HTMLだけではページの内容を変えることはできません。PHPはHTMLにプログラムを埋め込み、それを可能にします。</p>
           </div>
