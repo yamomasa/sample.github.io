@@ -24,10 +24,10 @@
         <p>個々の症状、体質に合わせた漢方相談</p>
         <p>やさしく丁寧に対応いたします</p>
         <div class="btn-wrapper">
-          <a href="https://yamomasa.github.io/sample.github.io/index2" class="btn signup">新規の方はこちら</a>
+          <a href="https://yamomasa.github.io/sample.github.io/index2" class="btn signup">新規相談の方はこちら</a>
           <p>or sign up with</p>
-          <a href="#" class="btn facebook"><span class="fa fa-facebook"></span>Facebookで登録</a>
-          <a href="#" class="btn twitter"><span class="fa fa-twitter"></span>Twitterで登録</a>
+          <a href="#" class="btn facebook"><span class="fa fa-facebook"></span>Facebookで相談</a>
+          <a href="#" class="btn twitter"><span class="fa fa-twitter"></span>Twitterで相談</a>
         </div>
       </div>
     </div>
@@ -71,10 +71,10 @@
     <div class="message-wrapper">
       <div class="container">
         <div class="heading">
-          <h2>さぁ、あなたもProgateでプログラミングを学んでみませんか?</h2>
+          <h2>さぁ、あなたもMari's漢方相談所で体調を相談してみませんか?</h2>
           <h3>Let's learn to code, learn to be creative!</h3>
         </div>
-        <span class="btn message">さっそく開発する</span>
+        <span class="btn message">さっそく相談する</span>
       </div>
     </div>
     <footer>
