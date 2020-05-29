@@ -15,6 +15,7 @@ a {
 /*https://prog-8.com/images/html/advanced/top.png*/
 .top-wrapper {
   padding: 180px 0 100px 0;
+  opacity: 0.7;
   background-image: url(https://yamomasa.github.io/sample.github.io/IMG_ryou.PNG);
   background-size: cover;
   color: white;
