@@ -10,7 +10,7 @@
     <header>
       <div class="container">
         <div class="header-left">
-          <img class="logo" src="https://prog-8.com/images/html/advanced/main_logo.png">
+          <img class="logo" src="">
         </div>
         <div class="header-right">
           <a href="#" class="login">ログイン</a>
@@ -42,28 +42,28 @@
               <img src="https://yamomasa.github.io/sample.github.io/IMG_kanp50.PNG">
               <p>漢方について</p>
             </div>
-            <p class="txt-contents">Webページの作成に使用される言語です。HTMLとCSSを組み合わせることで、静的なページを作り上げることができます。</p>
+            <p class="txt-contents"></p>
           </div>
           <div class="lesson">
             <div class="lesson-icon">
               <img src="https://yamomasa.github.io/sample.github.io/IMG_tree1_50.PNG">
               <p>体調について</p>
             </div>
-            <p class="txt-contents">素敵な動きを手軽に実装できるJavaScriptライブラリです。 アニメーション効果をつけたり、Ajax（エイジャックス）を使って外部ファイルを読み込んだりと色々なことができます。</p>
+            <p class="txt-contents"></p>
           </div>
           <div class="lesson">
             <div class="lesson-icon">
               <img src="https://yamomasa.github.io/sample.github.io/IMG_tree2_50.PNG">
               <p>料金について</p>
             </div>
-            <p class="txt-contents">オープンソースの動的なプログラミング言語で、 シンプルさと高い生産性を備えています。大きなWebアプリケーションから小さな日用ツールまで、さまざまなソフトウェアを作ることができます。</p>
+            <p class="txt-contents"></p>
           </div>
           <div class="lesson">
             <div class="lesson-icon">
               <img src="https://yamomasa.github.io/sample.github.io/IMG_tree3_50.PNG">
               <p>りょうくんについて</p>
             </div>
-            <p class="txt-contents">HTMLだけではページの内容を変えることはできません。PHPはHTMLにプログラムを埋め込み、それを可能にします。</p>
+            <p class="txt-contents"></p>
           </div>
         </div>
       </div>
@@ -79,8 +79,8 @@
     </div>
     <footer>
       <div class="container">
-        <img src="https://prog-8.com/images/html/advanced/footer_logo.png">
-        <p>Learn to code, learn to be creative.</p>
+        <img src="">
+        <p>.</p>
       </div>
     </footer>
   </body>
